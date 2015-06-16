@@ -1,5 +1,5 @@
 # Code Repo
-A collection of code to take our language skills to the next level.
+A collection of code to take our language skills to the next level. Note that code is organized by language first. Any code related to a specific language library or framework can be found within that language's folder.
 
 ## Introduction
 Born from a desire to get better at the code we can produce, this project's purpose is to provide the community with as many code examples as possible. 
