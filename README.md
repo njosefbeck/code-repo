@@ -10,4 +10,4 @@ Thus, this project proposes to bridge the gap between a theoretical understandin
 
 ## Contributions
 
-This project would not be possible without code contributions from the community. We greatly appreciate any and all contributions to our code examples. If you are looking to contribute, head on over to Contributions to learn the proper formatting and methods for submissions. Thanks!
+This project would not be possible without code contributions from the community. We greatly appreciate any and all contributions to our code examples. If you are looking to contribute, head on over to Contributing.md to learn the proper formatting and methods for submissions. Thanks!
