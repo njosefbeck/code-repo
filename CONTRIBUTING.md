@@ -6,5 +6,6 @@ How do you go about submitting code examples? Read below to find out!
 
 
 ## Format for Contributions
-Please follow these guidelines when you write up your code examples: 
-* Example here... [more details to come]
+Please follow these guidelines when you write up your code examples.
+
+For each example, use Markdown to format your entry and include the fields shown in the example below. 
