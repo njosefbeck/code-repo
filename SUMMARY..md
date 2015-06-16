@@ -1,5 +1,5 @@
 # Summary
 
 * [CSS](sections.md)
-   * Media Queries
+   * [Media Queries](css/mediaQueries.md)
 
