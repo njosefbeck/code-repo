@@ -4,3 +4,7 @@ The code examples are broken down by topic. As code is often an example of multi
 * Functions
 * Regular Expressions
 
+#### Additional Resources
+Have a JavaScript resource you'd like to include in this list? Create a pull request and we'll add it!
+
+* [JavaScript.com](http://javascript.com)
