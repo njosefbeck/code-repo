@@ -93,4 +93,4 @@ The loop uses a number of if/else if/else statements to replace the characters i
 
 And for all other cases, denoted by else {}, make the array item into a string by first getting the charCode for the letter at [i] and adding 1; so for example the character c = 63, and 63+1 = 64, which is the unicode for 'd'. Thus, when the String is created using .fromCharCode(64), you get 'd'.
 
-Then, once the loop is done doing its thing, join the newly created string into str variable that is then returned.
+Then, once the loop is done doing its thing, join the newly created array into a string stored in the str variable that is then returned.
