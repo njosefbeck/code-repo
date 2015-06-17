@@ -7,6 +7,6 @@ The code examples are broken down by topic. As code is often an example of multi
 #### Additional Resources
 Have a jQuery resource you'd like to include in this list? Create a pull request and we'll add it!
 
-* [jQuery](https://api.jquery.com/)
+* [jQuery Docs](https://api.jquery.com/)
 
 
